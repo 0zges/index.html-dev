@@ -1,1 +1,1 @@
-# index.html-dev
+# Patika.dev ile olusturdugum index.html odevi
